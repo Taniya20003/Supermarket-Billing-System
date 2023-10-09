@@ -14,7 +14,7 @@ This project utilizes object-oriented programming (OOP) principles to create a u
 ## Usage
 
 1. Clone or download this repository to your local machine.
-2. Compile the `main.cpp` file using your C++ compiler.
+2. Compile the `App.c++` file using your C++ compiler.
 3. Run the compiled program to start the supermarket billing system.
 4. Follow the on-screen instructions to manage products, process customer purchases, and generate invoices.
 
